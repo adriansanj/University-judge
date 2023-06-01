@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 2\estructuras de datos\eda37\eda37\main.cpp(48): warning C4101: 'e': variable local sin referencia
+c:\users\adri\pro\uni 2\estructuras de datos\eda37\eda37\main.cpp(57): warning C4101: 'e': variable local sin referencia
+c:\users\adri\pro\uni 2\estructuras de datos\eda37\eda37\main.cpp(77): warning C4101: 'e': variable local sin referencia
+  eda37.vcxproj -> C:\Users\Adri\pro\UNI 2\Estructuras de Datos\eda37\Debug\eda37.exe

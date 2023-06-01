@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp33\marp33\main.cpp(12): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp33\marp33\main.cpp(34): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp33\marp33\main.cpp(39): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp33\marp33\main.cpp(31): warning C4101: 'aux': variable local sin referencia
+  marp33.vcxproj -> C:\Users\Adri\pro\UNI 3\Métodos algorítmicos de resolución de problemas\Juez\marp33\Debug\marp33.exe

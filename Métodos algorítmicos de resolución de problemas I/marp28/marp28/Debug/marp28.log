@@ -1,0 +1,52 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(108): warning C4244: 'argumento': conversión de '_Ty' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(102): note: durante la compilación de la función miembro de plantilla clase de 'void PriorityQueue<__int64,std::greater<int>>::hundir(int)'
+  c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(72): note: vea la referencia a la creación de instancias de plantilla de función 'void PriorityQueue<__int64,std::greater<int>>::hundir(int)' que se está compilando
+  c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\main.cpp(8): note: vea la referencia a la creación de instancias de plantilla clase de 'PriorityQueue<__int64,std::greater<int>>' que se está compilando
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(111): warning C4244: 'argumento': conversión de 'T' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(111): warning C4244: 'argumento': conversión de '_Ty' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(94): warning C4244: 'argumento': conversión de '_Ty' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(91): note: durante la compilación de la función miembro de plantilla clase de 'void PriorityQueue<__int64,std::greater<int>>::flotar(int)'
+  c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(50): note: vea la referencia a la creación de instancias de plantilla de función 'void PriorityQueue<__int64,std::greater<int>>::flotar(int)' que se está compilando
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp28\marp28\priorityqueue.h(94): warning C4244: 'argumento': conversión de 'T' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  marp28.vcxproj -> C:\Users\Adri\pro\UNI 3\Métodos algorítmicos de resolución de problemas\Juez\marp28\Debug\marp28.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 2\estructuras de datos\eda38\eda38\ipud.h(94): warning C4018: '>': no coinciden signed/unsigned
+c:\users\adri\pro\uni 2\estructuras de datos\eda38\eda38\main.cpp(67): warning C4101: 'e': variable local sin referencia
+  eda38.vcxproj -> C:\Users\Adri\pro\UNI 2\Estructuras de Datos\eda38\Debug\eda38.exe

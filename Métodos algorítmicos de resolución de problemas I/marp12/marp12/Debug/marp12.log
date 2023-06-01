@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp12\marp12\main.cpp(36): warning C4101: 'aux2': variable local sin referencia
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp12\marp12\main.cpp(36): warning C4101: 'aux1': variable local sin referencia
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp12\marp12\main.cpp(79): warning C4101: 'maxgrande': variable local sin referencia
+  marp12.vcxproj -> C:\Users\Adri\pro\UNI 3\Métodos algorítmicos de resolución de problemas\Juez\marp12\Debug\marp12.exe

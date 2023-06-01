@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp4\marp4\main.cpp(33): warning C4101: 'aux': variable local sin referencia
+c:\users\adri\pro\uni 3\métodos algorítmicos de resolución de problemas\juez\marp4\marp4\main.cpp(33): warning C4101: 'aux_int': variable local sin referencia
+  marp4.vcxproj -> C:\Users\Adri\pro\UNI 3\Métodos algorítmicos de resolución de problemas\Juez\marp4\Debug\marp4.exe

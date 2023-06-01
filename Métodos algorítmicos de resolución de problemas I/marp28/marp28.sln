@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "marp28", "marp28\marp28.vcxproj", "{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Debug|x64.ActiveCfg = Debug|x64
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Debug|x64.Build.0 = Debug|x64
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Debug|x86.Build.0 = Debug|Win32
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Release|x64.ActiveCfg = Release|x64
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Release|x64.Build.0 = Release|x64
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Release|x86.ActiveCfg = Release|Win32
+		{01E679E2-3F3E-40E9-91D4-F9BBF53DABBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7CD9F0-A166-4FBD-BF2E-F652B959D25C}
+	EndGlobalSection
+EndGlobal

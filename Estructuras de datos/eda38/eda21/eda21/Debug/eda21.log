@@ -1,0 +1,4 @@
+﻿  solucion.cpp
+c:\users\adri\desktop\pro\uni 2\eda21\eda21\bintree_eda.h(199): warning C4715: 'bintree<int>::minimo': no todas las rutas de acceso de control devuelven un valor
+c:\users\adri\desktop\pro\uni 2\eda21\eda21\bintree_eda.h(199): warning C4715: 'bintree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::minimo': no todas las rutas de acceso de control devuelven un valor
+  eda21.vcxproj -> C:\Users\Adri\Desktop\pro\UNI 2\eda21\Debug\eda21.exe

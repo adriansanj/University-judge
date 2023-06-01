@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\adri\pro\uni 2\estructuras de datos\eda87\eda87\main.cpp(16): error C2662: 'void SetTree<int>::count(const T &,const T &,int &,set<T,std::less<int>>::TreeNode *)': no se puede convertir el puntero 'this' de 'const SetTree<int>' a 'SetTree<int> &'
+          with
+          [
+              T=int
+          ]
+  c:\users\adri\pro\uni 2\estructuras de datos\eda87\eda87\main.cpp(16): note: Se pierden calificadores en la conversión
+  c:\users\adri\pro\uni 2\estructuras de datos\eda87\eda87\main.cpp(14): note: durante la compilación de la función miembro de plantilla clase de 'int SetTree<int>::count_interval(const T &,const T &) const'
+          with
+          [
+              T=int
+          ]
+  c:\users\adri\pro\uni 2\estructuras de datos\eda87\eda87\main.cpp(51): note: vea la referencia a la creación de instancias de plantilla de función 'int SetTree<int>::count_interval(const T &,const T &) const' que se está compilando
+          with
+          [
+              T=int
+          ]
+  c:\users\adri\pro\uni 2\estructuras de datos\eda87\eda87\main.cpp(39): note: vea la referencia a la creación de instancias de plantilla clase de 'SetTree<int>' que se está compilando

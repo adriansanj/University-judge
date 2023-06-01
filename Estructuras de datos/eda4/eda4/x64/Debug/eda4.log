@@ -1,0 +1,3 @@
+﻿  sol.cpp
+c:\users\adri\pro\uni 2\estructuras de datos\eda4\eda4\polinomio.h(35): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+  eda4.vcxproj -> C:\Users\Adri\pro\UNI 2\Estructuras de Datos\eda4\x64\Debug\eda4.exe

@@ -1,0 +1,4 @@
+﻿  sol.cpp
+c:\users\adri\pro\uni 2\estructuras de datos\eda11\eda11\sol.cpp(78): warning C4101: 'n2': variable local sin referencia
+c:\users\adri\pro\uni 2\estructuras de datos\eda11\eda11\sol.cpp(78): warning C4101: 'n1': variable local sin referencia
+  eda11.vcxproj -> C:\Users\Adri\pro\UNI 2\Estructuras de Datos\eda11\Debug\eda11.exe

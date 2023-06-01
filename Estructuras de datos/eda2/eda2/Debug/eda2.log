@@ -1,0 +1,4 @@
+﻿  solution.cpp
+c:\users\adri\desktop\pro\uni 2\eda2\eda2\pelicula.h(25): warning C4101: 'e': variable local sin referencia
+c:\users\adri\desktop\pro\uni 2\eda2\eda2\solution.cpp(21): warning C4101: 'e': variable local sin referencia
+  eda2.vcxproj -> C:\Users\Adri\Desktop\pro\UNI 2\eda2\Debug\eda2.exe
